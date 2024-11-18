@@ -1,0 +1,20 @@
+.navColor{
+    background-color: rgba(254, 255, 255, 0.227);
+}
+.headText{
+    color: #ffffff;
+
+}
+#formColor{
+    
+    background-color: rgba(254, 255, 255, 0.227) !important
+
+}
+
+
+/* taskComponent */
+
+/* .buttons{
+    width: 20px;
+    height: 20px;
+} */
